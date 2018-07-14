@@ -1,4 +1,5 @@
 extern crate ncurses;
+extern crate hyper;
 
 use ncurses::*;
 

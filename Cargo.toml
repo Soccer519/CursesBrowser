@@ -5,3 +5,4 @@ authors = ["mark", "zac"]
 
 [dependencies]
 ncurses = "5.93.0"
+hyper = "0.12.6"
