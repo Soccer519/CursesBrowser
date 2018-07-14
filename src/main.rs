@@ -1,3 +1,13 @@
+extern crate ncurses;
+
+use ncurses::*;
+
 fn main() {
-    println!("Hello, world!");
+	initscr();
+	noecho();
+
+	printw("Hello, World!");
+
+	getch();
+	endwin();
 }

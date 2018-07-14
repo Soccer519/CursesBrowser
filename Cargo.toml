@@ -4,3 +4,4 @@ version = "0.1.0"
 authors = ["mark", "zac"]
 
 [dependencies]
+ncurses = "5.93.0"
