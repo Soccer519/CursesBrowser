@@ -1,0 +1,4 @@
+[[package]]
+name = "curses-web-browser"
+version = "0.1.0"
+
